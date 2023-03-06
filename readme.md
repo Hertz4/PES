@@ -24,3 +24,5 @@ Folder 2: noisy case: PES method for noisy fermionic Green's function.
 Folder 3: bosonic: ES/PES method for Bosonic case.
 
        matlab>>> test_bosonic
+
+For more information and questions, please contact Zhen Huang hertz@berkeley.edu
